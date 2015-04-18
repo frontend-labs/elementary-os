@@ -1,6 +1,6 @@
 **Elementary OS**
 ==============
-Lista de herramientas, utilidades y todo sobre Elementary OS.
+List of tools, utilities and everything about elementary OS
 
 ----------
 
